@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Hriduwanur Rahman — aka "Vishaan"!</h1>
+<h1 align="center">Hi, I'm Hriduwanur Rahman 
 <p align="center">
 Founder of <b>HireOS</b> — AI-powered Career SaaS Platform
 </p>
