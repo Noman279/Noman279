@@ -106,7 +106,7 @@ If you'd like to get involved â€” reach out via GitHub or LinkedIn!
 ---
 
 ## ðŸ“„ License
-<h1 align="center">Hi there, I'm Hriduwanur Rahman (a.k.a. Vishaan) 👋</h1>
+<h1 align="center">Hi there, I'm Hriduwanur Rahman 👋</h1>
 <h3 align="center">Founder of HireOS | Passionate about AI SaaS, Career Tech & Digital Empowerment</h3>
 
 ---
