@@ -160,3 +160,13 @@ My long-term vision is to create a career ecosystem that enables youth to access
 
 *Thanks for visiting my profile! I'm building every day — with vision, code, and purpose.*
 Feel free to use with attribution.
+### 🎯 Available Services
+I offer the following microservices via GitHub:
+
+| Service | Description | Price | Delivery |
+|--------|-------------|-------|----------|
+| ✍️ AI Resume Creation | Custom AI-written resume with design | $5 | 1-2 days |
+| 📨 Cover Letter Builder | Professionally written cover letters | $3 | 1 day |
+| 🛠️ Personal Website Portfolio | Code + Setup + Hosting guide | $20 | 3-4 days |
+
+**Order via:** [GitHub Issue](https://github.com/Noman279/Noman279/issues/new?template=order-request.md)
