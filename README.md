@@ -106,5 +106,57 @@ If you'd like to get involved â€” reach out via GitHub or LinkedIn!
 ---
 
 ## ðŸ“„ License
+<h1 align="center">Hi there, I'm Hriduwanur Rahman (a.k.a. Vishaan) 👋</h1>
+<h3 align="center">Founder of HireOS | Passionate about AI SaaS, Career Tech & Digital Empowerment</h3>
 
+---
+
+### 🚀 About Me
+I'm building **HireOS**, an AI-powered Career SaaS platform where users can generate smart resumes, cover letters, and even offer freelance career services — all in one place. Think of it as the fusion of **Fiverr + Canva + AI** for job seekers and career builders.
+
+- 🔭 Currently working on: **HireOS — AI Resume & Microservice Career Platform**
+- 🌱 Learning: **AI Automation**, **Node.js**, **Next.js**, **Firebase**
+- 💬 Ask me about: **Tech Entrepreneurship**, **SaaS Ideas**, **Building in Public**
+- ⚡ Fun Fact: I started this journey with nothing but a smartphone and a dream!
+
+---
+
+### 🛠 Tech Stack
+`JavaScript` • `Node.js` • `Firebase` • `React Native` (learning) • `Markdown` • `Git` • `Termux` • `Prompt Engineering`
+
+---
+
+### 🧠 Vision & Mission
+
+> “Empower 1 million career builders globally with smart, AI-first tools that simplify success.”
+
+My long-term vision is to create a career ecosystem that enables youth to access career growth tools, micro-income opportunities, and confidence — even from mobile phones.
+
+---
+
+### 🌐 Let's Connect
+
+- GitHub: [@Noman279](https://github.com/Noman279)
+- LinkedIn: [Coming Soon]
+- Website: [Coming Soon]
+- Email: hriduwanur@gmail.com
+
+---
+
+### 📌 Featured Projects (Pin these!)
+- [HireOS - AI Career Platform](https://github.com/Noman279/HireOS)
+- [Smart Resume Toolkit](#)
+- [Label & Accessory B2B Tools](#)
+
+---
+
+### ⚙️ Tools I Use
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![Termux](https://img.shields.io/badge/-Termux-000000?logo=android&logoColor=white&style=for-the-badge)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
+
+---
+
+*Thanks for visiting my profile! I'm building every day — with vision, code, and purpose.*
 Feel free to use with attribution.
