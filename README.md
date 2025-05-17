@@ -108,7 +108,44 @@ If you'd like to get involved â€” reach out via GitHub or LinkedIn!
 ## ðŸ“„ License
 <h1 align="center">Hi there, I'm Hriduwanur Rahman 👋</h1>
 <h3 align="center">Founder of HireOS | Passionate about AI SaaS, Career Tech & Digital Empowerment</h3>
+<h1 align="center">Hi, I'm Hriduwanur Rahman — aka Vishaan</h1>
+<p align="center">🚀 AI-Driven SaaS Builder | Career Tech Enthusiast | Full-stack Explorer</p>
 
+---
+
+### 🧠 About Me
+I'm building **HireOS** — a smart, AI-powered career platform to empower job seekers and freelancers with resume tools, cover letters, and micro-services — all automated for speed and personalization.
+
+- Currently working on: `HireOS Platform`, `AI Resume`, `Cover Letter Generator`
+- Focused on: AI + SaaS + Automation
+- Tools I love: Node.js, React, Express, MongoDB, Tailwind, OpenAI API
+- Passion: Turning career-building into a seamless, automated experience
+
+---
+
+### 🔧 Current Projects (HireOS Ecosystem)
+
+| Repo Name               | Description                                      |
+|------------------------|--------------------------------------------------|
+| [`hireos-platform`](https://github.com/Noman279/hireos-platform)      | Main SaaS system for career tools            |
+| [`hireos-api`](https://github.com/Noman279/HireOS-Core-API)           | Backend APIs (Node.js/Express)               |
+| [`hireos-app`](https://github.com/Noman279/hireos-webview-app)        | Mobile/WebView version of the app            |
+| [`hireos-web`](https://github.com/Noman279/HireOS-Web)                | Landing Page & Web UI                        |
+| [`hireos-ai-resume`](https://github.com/Noman279/hireos-resume)       | AI Resume Builder                            |
+| [`hireos-ai-coverletter`](https://github.com/Noman279/hereos-coverletter-) | AI Cover Letter Generator              |
+| [`hireos-core`](https://github.com/Noman279/hireos-core)              | Shared logic, utilities & base components    |
+| [`hireos-docs`](https://github.com/Noman279/github-pages)             | Documentation & GitHub Pages site            |
+
+---
+
+### 🌐 Let's Connect
+- **LinkedIn**: [linkedin.com/in/hriduwanur](https://linkedin.com/in/hriduwanur)
+- **Email**: hriduwanur@gmail.com  
+- **Portfolio (Coming Soon)**: [hireos.ai](https://hireos.ai)
+
+---
+
+> *Building something great, one AI tool at a time.*
 ---
 
 ### 🚀 About Me
