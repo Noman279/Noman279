@@ -207,3 +207,59 @@ I offer the following microservices via GitHub:
 | 🛠️ Personal Website Portfolio | Code + Setup + Hosting guide | $20 | 3-4 days |
 
 **Order via:** [GitHub Issue](https://github.com/Noman279/Noman279/issues/new?template=order-request.md)
+<h1 align="center">Hi, I'm Hriduwanur Rahman (Vishaan)!</h1>
+<h3 align="center">AI SaaS Builder | CareerTech Enthusiast | Founder of HireOS</h3>
+
+---
+
+### 🚀 About Me
+
+I'm an aspiring **AI-powered SaaS entrepreneur** passionate about building next-generation career tools and marketplaces.
+
+- 🔭 Currently building: [**HireOS**](https://github.com/Noman279/hireos-platform) – an AI-powered career toolkit and microservice marketplace.
+- 🌱 Learning full-stack development, mobile-first platforms, and automation.
+- 👨‍💻 I love turning ideas into real-world applications using tech.
+- 📫 Reach me at: `hriduwanur.rahman@gmail.com`
+
+---
+
+### 🧠 Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+---
+
+### 🌟 Featured Projects
+
+Here are a few things I've been working on:
+
+- **[HireOS Platform](https://github.com/Noman279/hireos-platform)** – Core engine for the SaaS career platform.
+- **[HireOS Resume Generator](https://noman279.github.io/resume/)** – Create AI-powered resumes easily.
+- **[HireOS Landing Page](https://noman279.github.io/hireos-landing/)** – Clean, modern landing UI for HireOS.
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Noman279&show_icons=true&theme=radical" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Noman279&theme=radical" width="47%" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/hriduwanur-rahman)
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hriduwanur.rahman@gmail.com)
+
+---
+
+*“Dream it. Build it. Ship it.”*
